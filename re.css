@@ -1,0 +1,48 @@
+p.p1{
+		border-style: ridge;
+		font-family: fantasy;
+		color: red;
+		font-size: 25px;
+		background-color:rgb(460,300,230);
+	}
+	p{
+		font-size: 20px;
+	}
+	ul.pp{
+		font-family:monospace;
+	}
+	ul{
+		font-size: 20px;
+	}
+	div.con{
+		max-width: 800px;
+		margin: auto;
+		padding: 10px;
+        box-shadow: 5px 10px green;
+         background:url(images.jpg);
+        background-size: cover;
+       background-repeat: no-repeat;
+	}
+	
+	body{
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+	table{
+		font-size: 20px;
+        box-shadow: 5px 10px pink;
+	}
+	table,td, th{
+		font-family: cursive;
+           background:url(pic.jpg);	
+	background-size: cover;
+		background-repeat: no-repeat;
+	}
+	h3 {
+		color: green;
+       text-decoration: underline;
+       font-family: cursive;
+      }
+    h1{
+    	text-shadow: 3px 2px red;
+    }
